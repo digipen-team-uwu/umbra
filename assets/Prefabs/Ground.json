@@ -1,0 +1,91 @@
+{
+    "EntityInfo": {
+        "Tags": 0,
+        "Name": "Ground"
+    },
+    "Transform": {
+        "rotation": 0.0,
+        "translation": {
+            "x": 0.0,
+            "y": -157.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale": {
+            "x": 1604.0,
+            "y": 264.0,
+            "z": 1.0
+        }
+    },
+    "Spine": {
+        "name": ""
+    },
+    "Physics": {
+        "velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "acceleration": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bodytype": 0,
+        "drag": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "inverseMass": 0.0,
+        "oldTranslation": {
+            "x": 0.0,
+            "y": -157.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "restitution": 1.0,
+        "rotationalVelocity": 0.0
+    },
+    "Collider": {
+        "ShapeType": 6,
+        "Center": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "VerticesCount": 4,
+        "Vertices": [
+            {
+                "key": 0.7853981852531433,
+                "value": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            },
+            {
+                "key": 2.356194496154785,
+                "value": {
+                    "x": -0.5,
+                    "y": 0.5
+                }
+            },
+            {
+                "key": 3.9269909858703615,
+                "value": {
+                    "x": -0.5,
+                    "y": -0.5
+                }
+            },
+            {
+                "key": 5.4977874755859379,
+                "value": {
+                    "x": 0.5,
+                    "y": -0.5
+                }
+            }
+        ]
+    }
+}

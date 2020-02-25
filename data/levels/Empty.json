@@ -1,0 +1,446 @@
+{
+    "Environment Space": [
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Rock_V1"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 0.0,
+                    "y": -60.0,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 512.0,
+                    "y": 256.0,
+                    "z": 1.0
+                }
+            },
+            "Animation": {
+                "animation": {
+                    "currentAnim": 0,
+                    "data": [
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        }
+                    ],
+                    "ids": []
+                }
+            },
+            "Texture": {
+                "uvs": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "color": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "w": 1.0
+                },
+                "filepaths": [
+                    ".\\assets\\Texture\\Props\\Non-interactable\\Midground\\Rocks\\Rock_V1.png",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "dimensions": {
+                    "x": 1,
+                    "y": 1
+                }
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Stalactite_V1"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": -337.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 256.0,
+                    "y": 247.1724090576172,
+                    "z": 1.0
+                }
+            },
+            "Animation": {
+                "animation": {
+                    "currentAnim": 0,
+                    "data": [
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        }
+                    ],
+                    "ids": []
+                }
+            },
+            "Texture": {
+                "uvs": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "color": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "w": 1.0
+                },
+                "filepaths": [
+                    ".\\assets\\Texture\\Props\\Non-interactable\\Midground\\Rocks\\Stalactite_V1.png",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "dimensions": {
+                    "x": 1,
+                    "y": 1
+                }
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Stalactite_V2"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 421.0,
+                    "y": 35.0,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 248.10699462890626,
+                    "y": 457.75848388671877,
+                    "z": 1.0
+                }
+            },
+            "Animation": {
+                "animation": {
+                    "currentAnim": 0,
+                    "data": [
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        }
+                    ],
+                    "ids": []
+                }
+            },
+            "Texture": {
+                "uvs": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "color": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "w": 1.0
+                },
+                "filepaths": [
+                    ".\\assets\\Texture\\Props\\Non-interactable\\Midground\\Rocks\\Stalactite_V2.png",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "dimensions": {
+                    "x": 1,
+                    "y": 1
+                }
+            }
+        }
+    ],
+    "Gameplay Space": [
+        {
+            "EntityInfo": {
+                "Tags": 2,
+                "Name": "Player"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 2.299999952316284,
+                    "y": 57.65925598144531,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 343.0,
+                    "y": 343.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": "Sight"
+            },
+            "Behaviors": [],
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": -800.0,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "bodytype": 1,
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 1.0,
+                "oldTranslation": {
+                    "x": 2.299999952316284,
+                    "y": 57.65925979614258,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": 5,
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 18,
+                "Vertices": [
+                    {
+                        "x": 0.2750000059604645,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.2750000059604645,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.2750000059604645,
+                        "y": -0.3499999940395355
+                    },
+                    {
+                        "x": -0.125,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.125,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.2750000059604645,
+                        "y": -0.3499999940395355
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Ground"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 0.0,
+                    "y": -245.8407440185547,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 1604.0,
+                    "y": 264.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": 0,
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 0.0,
+                    "y": -245.8407440185547,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": 6,
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        }
+    ]
+}

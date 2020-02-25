@@ -1,0 +1,97 @@
+
+Character_Sight_Final.png
+size: 1959,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackFoot
+  rotate: true
+  xy: 813, 13
+  size: 97, 182
+  orig: 98, 182
+  offset: 0, 0
+  index: -1
+BackThigh
+  rotate: false
+  xy: 1835, 336
+  size: 122, 156
+  orig: 122, 163
+  offset: 0, 0
+  index: -1
+BackWing
+  rotate: true
+  xy: 419, 75
+  size: 417, 392
+  orig: 417, 392
+  offset: 0, 0
+  index: -1
+BackWingCrystals
+  rotate: false
+  xy: 1366, 232
+  size: 336, 260
+  orig: 336, 260
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: false
+  xy: 1181, 29
+  size: 251, 126
+  orig: 251, 129
+  offset: 0, 0
+  index: -1
+FrontFoot
+  rotate: true
+  xy: 997, 14
+  size: 96, 182
+  orig: 96, 182
+  offset: 0, 0
+  index: -1
+FrontThigh
+  rotate: false
+  xy: 1704, 330
+  size: 129, 162
+  orig: 129, 162
+  offset: 0, 0
+  index: -1
+FrontWing
+  rotate: true
+  xy: 2, 33
+  size: 459, 415
+  orig: 459, 415
+  offset: 0, 0
+  index: -1
+FrontWingCrystals
+  rotate: true
+  xy: 813, 112
+  size: 380, 284
+  orig: 380, 284
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 1434, 2
+  size: 336, 228
+  orig: 336, 237
+  offset: 0, 9
+  index: -1
+Head
+  rotate: false
+  xy: 1099, 157
+  size: 265, 335
+  orig: 280, 335
+  offset: 0, 0
+  index: -1
+MaskCrystals
+  rotate: false
+  xy: 419, 11
+  size: 184, 62
+  orig: 185, 62
+  offset: 0, 0
+  index: -1
+Torso+Pelvis
+  rotate: false
+  xy: 1772, 3
+  size: 180, 325
+  orig: 180, 325
+  offset: 0, 0
+  index: -1
