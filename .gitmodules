@@ -1,7 +1,0 @@
-[submodule "data"]
-	path = data
-	url = https://github.com/digipen-team-uwu/umbra-data.git
-
-[submodule "newAssets"]
-	path = assets
-	url = https://github.com/digipen-team-uwu/umbra-assets-temp.git
