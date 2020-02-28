@@ -1,7 +1,7 @@
 #version 450 core
 
 layout (location=0) in vec3 vVertexPosition;
-layout (location=1) in vec4 vVertexClrCoord;
+//layout (location=1) in vec4 vVertexClrCoord;
 layout (location=2) in vec2 vVertexTexCoord;
 
 // instancing data
@@ -65,7 +65,7 @@ void main() {
   layer = atlasLayer;
 
   // output color
-  vClrCoord = vVertexClrCoord + colorOffset;
+  vClrCoord = colorOffset;
 
   // discard objects
   if (uvOffset.x == -1)

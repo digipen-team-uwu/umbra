@@ -1,6 +1,6 @@
 #version 450 core
 
-layout (location=0) in vec3 vVertexPosition;
+layout (location=0) in vec4 vVertexPosition;
 
 // instancing data
 layout (location=4) in float rotation;
@@ -8,10 +8,12 @@ layout (location=5) in vec4 translation;
 layout (location=6) in vec3 scale;
 layout (location=13) in float lightRadius;
 layout (location=14) in vec4 lightClr;
+layout (location=1) in vec4 viewPosition;
 
 layout (location=0) out vec4 vClrCoord;
 layout (location=1) out float Radius;
-layout (location=2) out vec2 uv;
+layout (location=2) out vec4 lightPos;
+layout (location=3) out vec4 viewPos;
 
 layout (std140, binding = 1) uniform Camera
 {
@@ -20,14 +22,6 @@ layout (std140, binding = 1) uniform Camera
 };
 
 void main() {
-    const vec2 uvs[4] = vec2[](
-        vec2(0, 0),
-        vec2(1, 0),
-        vec2(0, 1),
-        vec2(1, 1)
-    );
-    uv = uvs[gl_VertexID];
-    
   // construct position matrix
   mat4 translatemat = mat4(1.0);
   vec3 trans = translation.xyz; //+ abs(scale / 2);
@@ -51,6 +45,8 @@ void main() {
   vClrCoord = lightClr;
   
   Radius = lightRadius;
-  
-  gl_Position = projection * view * model * vec4(vVertexPosition, 1.0);
+  lightPos = translation;
+  viewPos = viewPosition;
+
+  gl_Position = projection * view * model * vVertexPosition;
 }

@@ -1,0 +1,2815 @@
+{
+    "Environment Space": [
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Rock_V1"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 0.0,
+                    "y": -60.0,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 512.0,
+                    "y": 256.0,
+                    "z": 1.0
+                }
+            },
+            "Animation": {
+                "animation": {
+                    "currentAnim": 0,
+                    "data": [
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        }
+                    ],
+                    "ids": []
+                }
+            },
+            "Texture": {
+                "uvs": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "color": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "w": 1.0
+                },
+                "filepaths": [
+                    ".\\assets\\Texture\\Props\\Non-interactable\\Midground\\Rocks\\Rock_V1.png",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "dimensions": {
+                    "x": 1,
+                    "y": 1
+                }
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Stalactite_V1"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": -337.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 256.0,
+                    "y": 247.1724090576172,
+                    "z": 1.0
+                }
+            },
+            "Animation": {
+                "animation": {
+                    "currentAnim": 0,
+                    "data": [
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        }
+                    ],
+                    "ids": []
+                }
+            },
+            "Texture": {
+                "uvs": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "color": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "w": 1.0
+                },
+                "filepaths": [
+                    ".\\assets\\Texture\\Props\\Non-interactable\\Midground\\Rocks\\Stalactite_V1.png",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "dimensions": {
+                    "x": 1,
+                    "y": 1
+                }
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Stalactite_V2"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 421.0,
+                    "y": 35.0,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 248.10699462890626,
+                    "y": 457.75848388671877,
+                    "z": 1.0
+                }
+            },
+            "Animation": {
+                "animation": {
+                    "currentAnim": 0,
+                    "data": [
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        },
+                        {
+                            "looping_": false,
+                            "currentFrame_": 0,
+                            "frameCount_": 0,
+                            "frameDelay_": 0.0,
+                            "isRunning_": false,
+                            "frames_": []
+                        }
+                    ],
+                    "ids": []
+                }
+            },
+            "Texture": {
+                "uvs": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "color": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "w": 1.0
+                },
+                "filepaths": [
+                    ".\\assets\\Texture\\Props\\Non-interactable\\Midground\\Rocks\\Stalactite_V2.png",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "dimensions": {
+                    "x": 1,
+                    "y": 1
+                }
+            }
+        }
+    ],
+    "Gameplay Space": [
+        {
+            "EntityInfo": {
+                "Tags": 2,
+                "Name": "Player"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": -1221.2530517578126,
+                    "y": 286.6600036621094,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 343.0,
+                    "y": 343.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": "Sight"
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "bodytype": "DYNAMIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 1.0,
+                "oldTranslation": {
+                    "x": -1221.2530517578126,
+                    "y": 286.6600036621094,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "POLYGON",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 48,
+                "Vertices": [
+                    {
+                        "x": 0.2750000059604645,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.2750000059604645,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.2750000059604645,
+                        "y": -0.3499999940395355
+                    },
+                    {
+                        "x": -0.125,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.125,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.2750000059604645,
+                        "y": -0.3499999940395355
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Ground"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": -95.85700225830078,
+                    "y": -247.83999633789063,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 3234.0,
+                    "y": 264.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": -95.85700225830078,
+                    "y": -247.83999633789063,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Ground"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": -1825.0780029296876,
+                    "y": 963.8599853515625,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 313.0,
+                    "y": 2347.656005859375,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": -1825.0780029296876,
+                    "y": 963.8599853515625,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Ground"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": -136.07778930664063,
+                    "y": -80.13999938964844,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 1132.0,
+                    "y": 185.65585327148438,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": -136.07778930664063,
+                    "y": -80.13999938964844,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Ground"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 1333.9219970703126,
+                    "y": 1846.8599853515626,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 309.0,
+                    "y": 1997.656005859375,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 1333.9219970703126,
+                    "y": 1846.8599853515626,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Lantern1Here"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": -94.85700225830078,
+                    "y": 153.16000366210938,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 303.0,
+                    "y": 266.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": -94.85700225830078,
+                    "y": 153.16000366210938,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Ground"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": -178.85699462890626,
+                    "y": 2176.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 3256.0,
+                    "y": 264.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": -178.85699462890626,
+                    "y": 2176.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Ground"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 1389.1429443359376,
+                    "y": -490.8399963378906,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 273.0,
+                    "y": 275.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 1389.1429443359376,
+                    "y": -490.8399963378906,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Ground"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 1833.1429443359376,
+                    "y": -551.8400268554688,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 746.0,
+                    "y": 264.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 1833.1429443359376,
+                    "y": -551.8400268554688,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Ground"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 2258.14306640625,
+                    "y": -399.8399963378906,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 273.0,
+                    "y": 568.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 2258.14306640625,
+                    "y": -399.8399963378906,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Ground"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 1810.1429443359376,
+                    "y": 979.1599731445313,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 1145.0,
+                    "y": 264.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 1810.1429443359376,
+                    "y": 979.1599731445313,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Ground"
+            },
+            "Transform": {
+                "rotation": 0.8700000047683716,
+                "translation": {
+                    "x": 2864.14306640625,
+                    "y": 1619.1600341796876,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 1815.0,
+                    "y": 261.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 2864.14306640625,
+                    "y": 1619.1600341796876,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda2"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 4460.14306640625,
+                    "y": -551.8400268554688,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 4301.0,
+                    "y": 264.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 4460.14306640625,
+                    "y": -551.8400268554688,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda2"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 3354.14306640625,
+                    "y": 157.16000366210938,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 992.0,
+                    "y": 173.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 3354.14306640625,
+                    "y": 157.16000366210938,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda2"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 4888.14306640625,
+                    "y": 2358.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 3481.0,
+                    "y": 264.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 4888.14306640625,
+                    "y": 2358.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda2"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 4835.14306640625,
+                    "y": 580.1599731445313,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 984.0,
+                    "y": 173.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 4835.14306640625,
+                    "y": 580.1599731445313,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda3"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 6789.14306640625,
+                    "y": 231.16000366210938,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 1765.0,
+                    "y": 1804.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 6789.14306640625,
+                    "y": 231.16000366210938,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda3"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 8196.142578125,
+                    "y": 1372.1600341796876,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 1229.0,
+                    "y": 2517.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 8196.142578125,
+                    "y": 1372.1600341796876,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda3"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 6365.14306640625,
+                    "y": 2968.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 534.0,
+                    "y": 1959.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 6365.14306640625,
+                    "y": 2968.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda3"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 8275.1435546875,
+                    "y": 4044.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 3383.0,
+                    "y": 281.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 8275.1435546875,
+                    "y": 4044.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda3"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 10060.1435546875,
+                    "y": 1480.1600341796876,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 2682.0,
+                    "y": 429.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 10060.1435546875,
+                    "y": 1480.1600341796876,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda3"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 9899.1435546875,
+                    "y": 3505.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 346.0,
+                    "y": 2201.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 9899.1435546875,
+                    "y": 3505.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda3"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 11530.1435546875,
+                    "y": 990.1599731445313,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 334.0,
+                    "y": 4982.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 11530.1435546875,
+                    "y": 990.1599731445313,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda4"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 12028.1435546875,
+                    "y": 3221.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 1312.0,
+                    "y": 517.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 12028.1435546875,
+                    "y": 3221.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda4"
+            },
+            "Transform": {
+                "rotation": 0.11999999731779099,
+                "translation": {
+                    "x": 12012.1435546875,
+                    "y": 4974.16015625,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 4045.0,
+                    "y": 421.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 12012.1435546875,
+                    "y": 4974.16015625,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Touch1Here"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 8294.142578125,
+                    "y": 2686.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 367.0,
+                    "y": 111.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 8294.142578125,
+                    "y": 2686.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda4"
+            },
+            "Transform": {
+                "rotation": -0.7300000190734863,
+                "translation": {
+                    "x": 14189.1435546875,
+                    "y": 4592.16015625,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 3337.0,
+                    "y": 419.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 14189.1435546875,
+                    "y": 4592.16015625,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda4"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 14207.1435546875,
+                    "y": -433.8399963378906,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 2044.0,
+                    "y": 343.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 14207.1435546875,
+                    "y": -433.8399963378906,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda4"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 16362.14453125,
+                    "y": 157.16000366210938,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 758.0,
+                    "y": 425.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 16362.14453125,
+                    "y": 157.16000366210938,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda4"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 18097.14453125,
+                    "y": 797.1599731445313,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 1100.0,
+                    "y": 4508.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 18097.14453125,
+                    "y": 797.1599731445313,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda4"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 15699.14453125,
+                    "y": 3622.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 835.0,
+                    "y": 4052.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 15699.14453125,
+                    "y": 3622.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        },
+        {
+            "EntityInfo": {
+                "Tags": 0,
+                "Name": "Grounda5"
+            },
+            "Transform": {
+                "rotation": 0.0,
+                "translation": {
+                    "x": 15699.14453125,
+                    "y": 3622.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "scale": {
+                    "x": 835.0,
+                    "y": 4052.0,
+                    "z": 1.0
+                }
+            },
+            "Spine": {
+                "name": ""
+            },
+            "Physics": {
+                "velocity": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "acceleration": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "bodytype": "STATIC",
+                "drag": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "inverseMass": 0.0,
+                "oldTranslation": {
+                    "x": 15699.14453125,
+                    "y": 3622.159912109375,
+                    "z": 0.0,
+                    "w": 1.0
+                },
+                "restitution": 1.0,
+                "rotationalVelocity": 0.0
+            },
+            "Collider": {
+                "ShapeType": "RECTANGLE",
+                "Center": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "VerticesCount": 4,
+                "Vertices": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    {
+                        "x": 0.5,
+                        "y": -0.5
+                    }
+                ]
+            }
+        }
+    ]
+}

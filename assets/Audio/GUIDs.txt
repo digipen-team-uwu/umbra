@@ -1,0 +1,35 @@
+{f704d596-79bb-4a42-9ed6-af24d439e246} bank:/Master
+{6f19f542-08c0-0600-189f-25da25cae4de} bank:/Master.strings
+{8fdd695d-a816-43e1-b28e-7b9c66fb4021} bank:/Music
+{2c4ffc2f-9b3f-4bfe-9a80-67420433752d} bank:/SFX
+{e6900feb-9af4-4362-9796-d726c44f17fc} bus:/
+{2cd13cf4-a3e7-4ad4-98ee-2696e7405cc5} bus:/Music
+{4ab420aa-9493-4e70-aa88-02e4e1e505f0} bus:/Reverb
+{e416d118-2f47-4bee-9b15-00f81b829e4c} bus:/SFX
+{ba0755f6-cc45-4a64-9ca1-bdad9cd3f4bd} bus:/SFX/Enemy SFX
+{8823181a-2a8c-4de9-bb44-bccb83fcd331} bus:/SFX/Level
+{1205b997-931a-48d0-bfa4-702324fb387f} bus:/SFX/Player
+{0e1ccf5a-2d07-4082-9ab0-73897f5edc40} bus:/SFX/UI
+{2264b456-f839-4422-83ab-0491911363a4} bus:/VO
+{e711ae72-f8e3-4796-bebe-b7c5acd0e0a7} event:/Music/CaveAmbience
+{11b155a8-286b-4a56-b6ea-3dc7cd6b05d3} event:/Music/TempleAmbience
+{c067396e-88ac-417e-8f45-6fe1790cc5fb} event:/Music/TitleScreen
+{eee4d2fa-1ebe-4a5b-83c4-beaa99962fd9} event:/SFX/Enemy SFX/FangIdle
+{bb2f7495-30bf-43b4-ab5d-27e8be5e5d99} event:/SFX/Enemy SFX/FangRun
+{89ff49ec-b919-48e9-ba9c-a41918060b51} event:/SFX/Enemy SFX/HearingEmerge
+{f2554c82-9f6b-4f0e-915a-332270c49c43} event:/SFX/Enemy SFX/HearingHurt
+{d0a22ba5-332b-42ea-b02e-58f9f801e4bb} event:/SFX/Enemy SFX/HearingIdle
+{7eb6e9f1-968a-452a-8749-f686db7c713b} event:/SFX/Enemy SFX/HearingLunge
+{f77d4aae-5c51-4fac-b48b-c5ba45251941} event:/SFX/Level SFX/TouchHeal
+{11f85df5-7d89-482e-a7c3-5c97cc58b2e5} event:/SFX/Level SFX/TouchIdle
+{adceaa96-6083-492c-a583-6f186c68e2f8} event:/SFX/Player SFX/JumpLand
+{2ab8ba84-bfc2-41a5-807d-02a9091a7c72} event:/SFX/Player SFX/JumpUp
+{26fa4265-957a-4687-917a-b680f200bfdb} event:/SFX/Player SFX/PlayerDash
+{d8ff2307-2075-4ed5-ba32-9df18fb832c6} event:/SFX/Player SFX/PlayerFootstep
+{435c61a9-4cf6-4929-9ede-4c04b912bfe9} event:/SFX/Player SFX/PlayerFootstepLoop
+{b8ecd2f5-9f9f-4ea2-b7a5-bb93fcf70d00} event:/SFX/Player SFX/PlayerGlide
+{9f226dae-9087-4e94-b05f-8ad8b969454c} event:/SFX/Player SFX/PlayerHurt
+{cb8ec7b1-b1ee-47e6-99a4-e62c4fdeab5f} event:/SFX/UI SFX/MenuHighlight
+{0975b845-54f8-4ea1-9066-69f42581a2c2} event:/SFX/UI SFX/MenuSelect
+{4d84f246-dc2f-49cd-ae1d-4449d7986c24} event:/SFX/UI SFX/UWU
+{f23f40fc-952e-4df5-b63a-b7e9771bd728} parameter:/Surface Type

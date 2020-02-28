@@ -311,7 +311,7 @@
                     "z": 0.0,
                     "w": 1.0
                 },
-                "bodytype": 1,
+                "bodytype": "DYNAMIC",
                 "drag": {
                     "x": 0.0,
                     "y": 0.0,
@@ -329,7 +329,7 @@
                 "rotationalVelocity": 0.0
             },
             "Collider": {
-                "ShapeType": 5,
+                "ShapeType": "POLYGON",
                 "Center": {
                     "x": 0.0,
                     "y": 0.0
@@ -398,7 +398,7 @@
                     "z": 0.0,
                     "w": 0.0
                 },
-                "bodytype": 0,
+                "bodytype": "STATIC",
                 "drag": {
                     "x": 0.0,
                     "y": 0.0,
@@ -416,7 +416,7 @@
                 "rotationalVelocity": 0.0
             },
             "Collider": {
-                "ShapeType": 6,
+                "ShapeType": "RECTANGLE",
                 "Center": {
                     "x": 0.0,
                     "y": 0.0
