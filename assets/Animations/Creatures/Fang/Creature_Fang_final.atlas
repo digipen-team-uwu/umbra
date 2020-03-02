@@ -1,0 +1,139 @@
+
+Creature_Fang_Assert.png
+size: 1110,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backleg1
+  rotate: false
+  xy: 517, 261
+  size: 132, 273
+  orig: 137, 278
+  offset: 5, 0
+  index: -1
+backleg2
+  rotate: false
+  xy: 202, 219
+  size: 175, 315
+  orig: 292, 316
+  offset: 117, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 206
+  size: 328, 198
+  orig: 469, 397
+  offset: 124, 140
+  index: -1
+farstrand
+  rotate: false
+  xy: 804, 273
+  size: 141, 97
+  orig: 142, 97
+  offset: 0, 0
+  index: -1
+front2
+  rotate: true
+  xy: 2, 2
+  size: 202, 315
+  orig: 203, 315
+  offset: 1, 0
+  index: -1
+ftonr1
+  rotate: true
+  xy: 319, 10
+  size: 207, 273
+  orig: 207, 274
+  offset: 0, 0
+  index: -1
+innerlowerjaw
+  rotate: true
+  xy: 814, 3
+  size: 146, 140
+  orig: 152, 140
+  offset: 0, 0
+  index: -1
+innerlupper
+  rotate: false
+  xy: 956, 126
+  size: 146, 122
+  orig: 146, 122
+  offset: 0, 0
+  index: -1
+innetteeth
+  rotate: true
+  xy: 594, 30
+  size: 229, 133
+  orig: 230, 133
+  offset: 0, 0
+  index: -1
+low
+  rotate: false
+  xy: 952, 393
+  size: 156, 141
+  orig: 157, 143
+  offset: 1, 1
+  index: -1
+lower outerjaw
+  rotate: true
+  xy: 651, 341
+  size: 193, 151
+  orig: 193, 151
+  offset: 0, 0
+  index: -1
+lowerjaw
+  rotate: true
+  xy: 804, 372
+  size: 162, 146
+  orig: 163, 148
+  offset: 1, 2
+  index: -1
+nearstand
+  rotate: true
+  xy: 956, 9
+  size: 115, 127
+  orig: 119, 129
+  offset: 3, 0
+  index: -1
+spine
+  rotate: true
+  xy: 952, 250
+  size: 141, 151
+  orig: 143, 153
+  offset: 1, 2
+  index: -1
+spine2
+  rotate: false
+  xy: 814, 151
+  size: 133, 120
+  orig: 134, 131
+  offset: 1, 11
+  index: -1
+spine3
+  rotate: false
+  xy: 651, 265
+  size: 121, 74
+  orig: 122, 75
+  offset: 1, 0
+  index: -1
+spine4
+  rotate: false
+  xy: 379, 225
+  size: 96, 34
+  orig: 97, 35
+  offset: 1, 0
+  index: -1
+top
+  rotate: true
+  xy: 729, 95
+  size: 168, 83
+  orig: 170, 85
+  offset: 1, 2
+  index: -1
+uppeer outerjaw
+  rotate: true
+  xy: 379, 261
+  size: 273, 136
+  orig: 274, 137
+  offset: 1, 1
+  index: -1

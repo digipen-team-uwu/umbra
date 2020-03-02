@@ -1,96 +1,117 @@
 
 Character_Sight_Final.png
-size: 1959,494
+size: 1546,804
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 BackFoot
   rotate: true
-  xy: 813, 13
+  xy: 1362, 705
   size: 97, 182
   orig: 98, 182
   offset: 0, 0
   index: -1
 BackThigh
-  rotate: false
-  xy: 1835, 336
+  rotate: true
+  xy: 1315, 6
   size: 122, 156
   orig: 122, 163
   offset: 0, 0
   index: -1
 BackWing
   rotate: true
-  xy: 419, 75
+  xy: 419, 385
   size: 417, 392
   orig: 417, 392
   offset: 0, 0
   index: -1
 BackWingCrystals
-  rotate: false
-  xy: 1366, 232
+  rotate: true
+  xy: 2, 5
   size: 336, 260
   orig: 336, 260
   offset: 0, 0
   index: -1
 Collar
   rotate: false
-  xy: 1181, 29
+  xy: 1062, 2
   size: 251, 126
   orig: 251, 129
   offset: 0, 0
   index: -1
 FrontFoot
   rotate: true
-  xy: 997, 14
+  xy: 1362, 607
   size: 96, 182
   orig: 96, 182
   offset: 0, 0
   index: -1
 FrontThigh
-  rotate: false
-  xy: 1704, 330
+  rotate: true
+  xy: 1362, 476
   size: 129, 162
   orig: 129, 162
   offset: 0, 0
   index: -1
 FrontWing
   rotate: true
-  xy: 2, 33
+  xy: 2, 343
   size: 459, 415
   orig: 459, 415
   offset: 0, 0
   index: -1
 FrontWingCrystals
   rotate: true
-  xy: 813, 112
+  xy: 494, 3
   size: 380, 284
   orig: 380, 284
   offset: 0, 0
   index: -1
 Hair
-  rotate: false
-  xy: 1434, 2
+  rotate: true
+  xy: 264, 5
   size: 336, 228
   orig: 336, 237
   offset: 0, 9
   index: -1
 Head
   rotate: false
-  xy: 1099, 157
+  xy: 1095, 467
   size: 265, 335
+  orig: 280, 335
+  offset: 0, 0
+  index: -1
+Head_Echo
+  rotate: false
+  xy: 780, 48
+  size: 280, 335
+  orig: 280, 335
+  offset: 0, 0
+  index: -1
+Head_Hit
+  rotate: false
+  xy: 813, 467
+  size: 280, 335
+  orig: 280, 335
+  offset: 0, 0
+  index: -1
+Head_uwu
+  rotate: false
+  xy: 1062, 130
+  size: 280, 335
   orig: 280, 335
   offset: 0, 0
   index: -1
 MaskCrystals
   rotate: false
-  xy: 419, 11
+  xy: 813, 403
   size: 184, 62
   orig: 185, 62
   offset: 0, 0
   index: -1
 Torso+Pelvis
   rotate: false
-  xy: 1772, 3
+  xy: 1344, 140
   size: 180, 325
   orig: 180, 325
   offset: 0, 0

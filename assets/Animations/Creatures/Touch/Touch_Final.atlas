@@ -1,0 +1,118 @@
+
+Touch_Final.png
+size: 877,1046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 298
+  size: 194, 746
+  orig: 202, 747
+  offset: 0, 1
+  index: -1
+Collar
+  rotate: false
+  xy: 558, 20
+  size: 212, 156
+  orig: 212, 162
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 15
+  size: 281, 303
+  orig: 281, 303
+  offset: 0, 0
+  index: -1
+Head_Praying
+  rotate: false
+  xy: 440, 742
+  size: 281, 302
+  orig: 281, 303
+  offset: 0, 1
+  index: -1
+Heart
+  rotate: true
+  xy: 440, 539
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+LeftForearm
+  rotate: true
+  xy: 558, 178
+  size: 70, 261
+  orig: 70, 261
+  offset: 0, 0
+  index: -1
+LeftForearm_Praying
+  rotate: false
+  xy: 682, 492
+  size: 107, 248
+  orig: 110, 248
+  offset: 0, 0
+  index: -1
+LeftForearm_Praying2
+  rotate: false
+  xy: 723, 797
+  size: 128, 247
+  orig: 128, 248
+  offset: 0, 1
+  index: -1
+LeftUpperArm
+  rotate: false
+  xy: 198, 331
+  size: 103, 159
+  orig: 131, 164
+  offset: 0, 0
+  index: -1
+LeftWing
+  rotate: false
+  xy: 198, 492
+  size: 240, 552
+  orig: 240, 552
+  offset: 0, 0
+  index: -1
+RightForearm
+  rotate: false
+  xy: 791, 534
+  size: 69, 261
+  orig: 69, 261
+  offset: 0, 0
+  index: -1
+RightForearm_Praying
+  rotate: true
+  xy: 307, 141
+  size: 107, 249
+  orig: 110, 249
+  offset: 3, 0
+  index: -1
+RightForearm_Praying2
+  rotate: true
+  xy: 307, 2
+  size: 137, 248
+  orig: 137, 248
+  offset: 0, 0
+  index: -1
+RightForearm_Praying2-1
+  rotate: true
+  xy: 440, 603
+  size: 137, 240
+  orig: 137, 248
+  offset: 0, 0
+  index: -1
+RightUpperArm
+  rotate: false
+  xy: 772, 18
+  size: 103, 158
+  orig: 131, 164
+  offset: 28, 0
+  index: -1
+RightWing
+  rotate: true
+  xy: 307, 250
+  size: 240, 552
+  orig: 240, 552
+  offset: 0, 0
+  index: -1

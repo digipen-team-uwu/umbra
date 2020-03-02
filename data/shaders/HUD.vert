@@ -1,7 +1,6 @@
 #version 450 core
 
 layout (location=0) in vec3 vVertexPosition;
-//layout (location=1) in vec4 vVertexClrCoord;
 layout (location=2) in vec2 vVertexTexCoord;
 
 // instancing data
@@ -17,10 +16,7 @@ layout (location=12) in uint atlasLayer;
 
 layout (location=0) out vec4 vClrCoord;
 layout (location=1) out vec2 vTexCoord;
-
-layout (location=2) out vec4 resultLight;
-
-layout (location=3) flat out uint layer;
+layout (location=2) flat out uint layer;
 
 layout (std140, binding = 2) uniform HUDMatrices
 {
@@ -49,6 +45,7 @@ void main() {
   mat4 model = translatemat * rotatemat * scalemat;
 
   gl_Position = projection * view * model * vec4(vVertexPosition, 1.0);
+
   vClrCoord = colorOffset;
 
   // calculate frame off set

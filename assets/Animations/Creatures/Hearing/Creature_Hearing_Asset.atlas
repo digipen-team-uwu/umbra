@@ -1,0 +1,132 @@
+
+Creature_Hearing_Asset.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Backjaw upper
+  rotate: false
+  xy: 1268, 193
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 185
+  size: 302, 513
+  orig: 310, 523
+  offset: 0, 10
+  index: -1
+Dirt hole
+  rotate: false
+  xy: 2, 9
+  size: 505, 174
+  orig: 505, 174
+  offset: 0, 0
+  index: -1
+Forlowerjaw
+  rotate: false
+  xy: 1110, 364
+  size: 78, 123
+  orig: 78, 123
+  offset: 0, 0
+  index: -1
+Groundplane
+  rotate: false
+  xy: 517, 354
+  size: 591, 133
+  orig: 593, 133
+  offset: 2, 0
+  index: -1
+Rear ear
+  rotate: true
+  xy: 952, 5
+  size: 186, 422
+  orig: 186, 422
+  offset: 0, 0
+  index: -1
+Upperinerjaw
+  rotate: false
+  xy: 1376, 14
+  size: 248, 290
+  orig: 248, 290
+  offset: 0, 0
+  index: -1
+backjawlower
+  rotate: true
+  xy: 858, 237
+  size: 115, 146
+  orig: 115, 146
+  offset: 0, 0
+  index: -1
+dirt pile
+  rotate: false
+  xy: 688, 190
+  size: 176, 36
+  orig: 176, 36
+  offset: 0, 0
+  index: -1
+farlowerjaw
+  rotate: true
+  xy: 1009, 218
+  size: 44, 124
+  orig: 44, 124
+  offset: 0, 0
+  index: -1
+forear
+  rotate: true
+  xy: 509, 2
+  size: 181, 441
+  orig: 181, 441
+  offset: 0, 0
+  index: -1
+lower outerjaw
+  rotate: true
+  xy: 517, 194
+  size: 158, 169
+  orig: 158, 169
+  offset: 0, 0
+  index: -1
+mouth fskin
+  rotate: false
+  xy: 1170, 271
+  size: 105, 91
+  orig: 105, 91
+  offset: 0, 0
+  index: -1
+spine 2
+  rotate: false
+  xy: 1006, 264
+  size: 162, 88
+  orig: 162, 88
+  offset: 0, 0
+  index: -1
+spine1
+  rotate: true
+  xy: 688, 228
+  size: 124, 168
+  orig: 124, 168
+  offset: 0, 0
+  index: -1
+spine3
+  rotate: false
+  xy: 866, 193
+  size: 141, 42
+  orig: 141, 42
+  offset: 0, 0
+  index: -1
+spine4
+  rotate: false
+  xy: 1135, 232
+  size: 131, 30
+  orig: 131, 30
+  offset: 0, 0
+  index: -1
+upper outerjaw
+  rotate: false
+  xy: 1277, 306
+  size: 220, 181
+  orig: 250, 181
+  offset: 30, 0
+  index: -1
